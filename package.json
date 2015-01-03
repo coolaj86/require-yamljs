@@ -1,6 +1,6 @@
 {
   "name": "require-yamljs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to require *.yml files using the yamljs module",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/coolaj86/require-yamljs/issues"
   },
-  "homepage": "https://github.com/coolaj86/require-yamljs"
+  "homepage": "https://github.com/coolaj86/require-yamljs",
+  "dependencies": {
+    "yamljs": "^0.2.1"
+  }
 }
