@@ -1,0 +1,25 @@
+{
+  "name": "require-yamljs",
+  "version": "1.0.0",
+  "description": "Allows you to require *.yml files using the yamljs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolaj86/require-yamljs.git"
+  },
+  "keywords": [
+    "yaml",
+    "yml",
+    "require",
+    "yamljs"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.com/)",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/coolaj86/require-yamljs/issues"
+  },
+  "homepage": "https://github.com/coolaj86/require-yamljs"
+}
