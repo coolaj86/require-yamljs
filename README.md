@@ -1,15 +1,2 @@
-require-yamljs
-==============
-
-Allows you to require *.yml files using the yamljs module.
-
-```bash
-npm install --save require-yamljs
-```
-
-```javascript
-require('require-yamljs');
-
-var conf = require('./config.yml')
-  ;
-```
+# Moved
+### [require-yamljs](https://git.daplie.com/coolaj86/require-yamljs) is now at [git.daplie.com/coolaj86/require-yamljs](https://git.daplie.com/coolaj86/require-yamljs)
